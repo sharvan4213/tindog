@@ -83,13 +83,7 @@ h3{
    color: #fff;
    text-shadow:2px 2px 10px #000;
 }
-#title{
-  background-color:#FF0080;
-  color:#fff;
-  position: relative;
-  padding:5% 13% ;
-  padding-bottom:30px;
-}
+
 #features{
   text-align:center;
   padding-top:5rem;
@@ -186,11 +180,11 @@ margin-bottom:5px;
   padding-right:0.8rem;
   padding: 3rem;
   background-color: #fff;
-  font-size:2rem;
+  font-size:1.5rem;
 }
 #testimonials{
   text-align:center;
-  font-size:2rem;
+  font-size:1rem;
   background-color:#FF0080;
   padding:10px;
 }
@@ -225,5 +219,12 @@ margin-bottom:5px;
   font-weight: bolder;
   padding-bottom:20px;
   font-size:2rem;
+}
+  .topna{
+  font-family: 'Roboto Condensed', sans-serif;
+  padding-top:3rem;
+  font-size:2rem;
+
+}
 }
   

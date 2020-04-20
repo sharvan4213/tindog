@@ -133,10 +133,10 @@ h3{
 {
   .topna{
     font-family: "arial", sans-serif;
-    padding-top:1rem;
+    padding-top:0.5rem;
   }
   .nav-image{
-    width:35%;
+    width:40%;
     transform: rotate(0);
     text-align: center;
   }
@@ -148,10 +148,11 @@ h3{
 
   }
   .button{
-      width:10%;
+      width:30%;
       height:1.5rem;
       border-radius: 3.4%;
       font-weight:lighter;
+      font-size:1.5rem;
       background-color:transparent;
       border:2px solid #000;
       font-size: 0.5rem;
@@ -160,6 +161,7 @@ h3{
 .phone{
   text-align: center;
   display: grid;
+  font-size:2rem;
 }
 .download-btn{
 padding:5px;
@@ -168,4 +170,55 @@ margin-bottom:5px;
 .nav-size{
   padding-bottom: 2rem;
 }
+  .testimonial-text{
+  font-size:3rem;
+  }
+#title{
+  background-color:#FF0080;
+  font-size:2rem;
+  color:#fff;
+  padding: 2% 9%;
+  padding-bottom:10px;
 }
+#features{
+  text-align:center;
+  padding-top:2rem;
+  padding-right:0.8rem;
+  padding: 3rem;
+  background-color: #fff;
+  font-size:2rem;
+}
+#testimonials{
+  text-align:center;
+  font-size:2rem;
+  background-color:#FF0080;
+  padding:10px;
+}
+#press{
+  background-color:#FF0080;
+  font-size:2rem;
+  text-align: center;
+  padding-top:10px;
+  padding-bottom:10px;
+
+}
+#pricing{
+  padding:5%;
+  text-align: center;
+  font-size:1.5rem;
+}
+#cta{
+  text-align: center;
+  padding:10rem 0;
+  font-size:2rem;
+  background-color:#FF0080;
+}
+#footer{
+  padding:40px;
+  text-align:center;
+  font-size:1rem;
+  font-weight:bolder;
+  margin-top:10px;
+}
+}
+  

@@ -132,9 +132,8 @@ h3{
 @media (max-width:1000px)
 {
   .nav-image{
-    position:static;
     transform:rotate(0);
-    width:30;
+    width:30%;
   }   
 }
   

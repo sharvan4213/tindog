@@ -65,7 +65,7 @@ h3{
 
 }
 .price{
-  margin: auto;
+  padding:auto 5% 5% 0%;
 }
 .button{
     width:10%;
@@ -113,7 +113,7 @@ h3{
 }
 #pricing{
   text-align: center;
-  padding:auto 5% 5% 0 0;
+  padding:5%;
 
 }
 #cta{

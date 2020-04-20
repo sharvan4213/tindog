@@ -221,7 +221,9 @@ margin-bottom:5px;
   margin-top:10px;
 }
   h3{
-   font-size:2rem;
-  }
+  font-family: cursive;
+  font-weight: bolder;
+  padding-bottom:20px;
+  font-size:2rem;
 }
   

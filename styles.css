@@ -131,6 +131,10 @@ h3{
 
 @media (max-width:1000px)
 {
+ .topna{
+    font-family: "arial", sans-serif;
+    padding-top:1rem;
+  }
   .nav-image{
     width:35%;
     transform: rotate(0);
@@ -153,9 +157,19 @@ h3{
       font-size: 0.5rem;
 
 }
-  .download-btn{
+.phone{
+  text-align: center;
+  display: grid;
+}
+.download-btn{
 padding:5px;
 margin-bottom:5px;
+}
+.nav-size{
+  padding-bottom: 2rem;
+}
+.text{
+  text-align: right;
 }
 }
   

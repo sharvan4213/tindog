@@ -1,0 +1,171 @@
+body{
+  padding:0rem;
+}
+h1{
+padding-top: 20%;
+font-family: sans-serif;
+font-weight: bold;
+text-align: left;
+padding-bottom:2rem;
+}
+h3{
+  font-family: cursive;
+  font-weight: bold;
+  padding-bottom:40px;
+}
+
+.navsize{
+  width:10%;
+  font-size:2rem;
+  padding-bottom: 3rem;
+}
+.topna{
+  font-family: 'Roboto Condensed', sans-serif;
+  padding-top:4rem;
+
+}
+.phone{
+  text-align:left;
+  line-height:2;
+  margin-right:3rem;
+}
+.download-btn{
+  margin-left:1.5rem;
+  margin-right:1.5rem;
+  text-align: center;
+
+}
+.nav-image{
+  width:50%;
+  margin-top: 40px;
+  transform: rotate(25deg);
+  position: absolute;
+  right:30%;
+
+}
+.i-size{
+  color:orange;
+}
+.i-size:hover{
+  color:red;
+}
+.test-image{
+  width:10%;
+  border-radius: 50%;
+  padding-top:20px;
+  padding-right:10px;
+}
+.testimonial-text{
+  width:50%;
+  margin-left:25%;
+}
+.press-image{
+  width:25%;
+  padding:20px;
+
+}
+.price{
+  margin:auto 5% 5% 0 0;
+}
+.button{
+    width:10%;
+    height:3rem;
+    margin-right:3rem;
+    border-radius: 3.4%;
+    font-weight:bold;
+    background-color:transparent;
+    border:2px solid #000;
+    font-size: 1rem;
+
+}
+.button:hover{
+   background-color: #4456;
+   color: #fff;
+   text-shadow:2px 2px 10px #000;
+}
+#title{
+  background-color:#FF0080;
+  color:#fff;
+  position: relative;
+  padding:5% 13% ;
+  padding-bottom:30px;
+}
+#features{
+  text-align:center;
+  padding-top:5rem;
+  padding-right:0.8rem;
+  padding: 5rem;
+  background-color: #fff;
+  position:relative;
+  z-index:1;
+}
+#testimonials{
+  text-align:center;
+  background-color:#FF0080;
+  padding:40px;
+}
+#press{
+  background-color:#FF0080;
+  text-align: center;
+  padding-top:30px;
+  padding-bottom:20px;
+
+}
+#pricing{
+  padding:5%;
+  text-align: center;
+
+}
+#cta{
+  text-align: center;
+  padding:10rem 0;
+  background-color:#FF0080;
+}
+#footer{
+  padding:40px;
+  text-align:center;
+  font-size:1rem;
+  font-weight:lighter;
+  margin-top:10px;
+}
+
+@media (max-width:1000px)
+{
+  .topna{
+    font-family: "arial", sans-serif;
+    padding-top:1rem;
+  }
+  .nav-image{
+    width:35%;
+    transform: rotate(0);
+    text-align: center;
+  }
+  #title{
+    background-color:#FF0080;
+    text-align:center;
+    color:#fff;
+    padding-bottom:60%;
+
+  }
+  .button{
+      width:10%;
+      height:1.5rem;
+      border-radius: 3.4%;
+      font-weight:lighter;
+      background-color:transparent;
+      border:2px solid #000;
+      font-size: 0.5rem;
+
+}
+.phone{
+  text-align: center;
+  display: grid;
+}
+.download-btn{
+padding:5px;
+margin-bottom:5px;
+}
+.nav-size{
+  padding-bottom: 2rem;
+}
+}

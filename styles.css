@@ -65,14 +65,14 @@ h3{
 
 }
 .price{
-  margin:auto 5% 5% 0 0;
+  margin:5% 5% 0 0;
 }
 .button{
-    width:5%%;
-    height:1.5rem;
+    width:10%;
+    height:2rem;
     margin-right:3rem;
     border-radius: 3.4%;
-    font-weight:bold;
+    font-weight:bolder;
     background-color:transparent;
     border:2px solid #000;
     font-size: 1.5rem;
@@ -123,8 +123,8 @@ h3{
   margin-top:10px;
 }
 
-@media (max-width:1000px)
+/* @media (max-width:1000px)
 {
    
-}
+} */
   

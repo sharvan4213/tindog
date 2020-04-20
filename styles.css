@@ -132,9 +132,30 @@ h3{
 @media (max-width:1000px)
 {
   .nav-image{
-    transform:rotate(0);
-    width:30%;
-    position:relative;
-  }   
+    width:35%;
+    transform: rotate(0);
+    text-align: center;
+  }
+  #title{
+    background-color:#FF0080;
+    text-align:center;
+    color:#fff;
+    padding-bottom:60%;
+
+  }
+  .button{
+      width:10%;
+      height:1.5rem;
+      border-radius: 3.4%;
+      font-weight:lighter;
+      background-color:transparent;
+      border:2px solid #000;
+      font-size: 0.5rem;
+
+}
+  .download-btn{
+padding:5px;
+margin-bottom:5px;
+}
 }
   
